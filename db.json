@@ -1,0 +1,47 @@
+{
+  "logs": [
+    {
+      "id": 1,
+      "message": "valve changed in stn 2",
+      "attention": false,
+      "date": "03-02-2019",
+      "tech": "Sam Smith"
+    },
+    {
+      "id": 2,
+      "message": "EMergency in subway 214",
+      "attention": true,
+      "date": "04-05-2019",
+      "tech": "Sam Curran"
+    },
+    {
+      "id": 3,
+      "message": "Frequent repair in sub 23",
+      "attention": true,
+      "date": "03-03-2019",
+      "tech": "Tom Curran"
+    }
+  ],
+  "techs": [
+    {
+      "id": 1,
+      "first name": "Sam",
+      "last name": "Smith"
+    },
+    {
+      "id": 2,
+      "first name": "Tom",
+      "last name": "Curran"
+    },
+    {
+      "id": 3,
+      "first name": "Sam",
+      "last name": "Curran"
+    },
+    {
+      "first name": "jane",
+      "last name": "udal",
+      "id": 4
+    }
+  ]
+}
